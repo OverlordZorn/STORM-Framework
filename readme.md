@@ -8,11 +8,13 @@
 <a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/overlordzorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/blob/based/LICENSE"><img alt="GitHub License" src="https://img.shields.io/badge/license-APL%20SA-darkgreen?style=for-the-badge"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/fork"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
 
 <p align="center">
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224327412"><img alt="Static Badge" src="https://img.shields.io/badge/steamworkshop-DEV%20%22Closed%22%20Beta-darkgreen?style=for-the-badge&logo=steam&label=Steam%20Workshop"></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224327412"><img alt="Static Badge" src="https://img.shields.io/steam/subscriptions/3224327412?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=darkgreen"></a>
 <p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/CONTRIBUTIONS-WELCOME-darkgreen?style=for-the-badge"></a>
 <p align="center">
 <a href="https://discord.com/invite/B6pNcSSR5X"><img alt="Discord" src="https://img.shields.io/discord/1230123144334016543?style=for-the-badge&logo=discord&label=Discord&color=darkgreen"></a>
+
+
 
 # S.T.O.R.M. Framework
 
