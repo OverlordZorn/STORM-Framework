@@ -18,7 +18,7 @@ https://steamcommunity.com/comment/Guide/formattinghelp
 
 ```
 
-[url=https://github.com/OverlordZorn/S.T.O.R.M.-Framework][img]https://img.shields.io/badge/github_repository-S.T.O.R.M._Framework-darkgreen?style=for-the-badge&logo=github[/IMG][/url][url=https://discord.gg/B6pNcSSR5X][IMG]https://img.shields.io/discord/1230123144334016543?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=darkgreen[/IMG][/url]
+[url=https://github.com/OverlordZorn/STORM-Framework][img]https://img.shields.io/badge/github_repository-STORM_Framework-darkgreen?style=for-the-badge&logo=github[/IMG][/url][url=https://discord.gg/B6pNcSSR5X][IMG]https://img.shields.io/discord/1230123144334016543?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=darkgreen[/IMG][/url]
 
 
 

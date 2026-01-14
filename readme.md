@@ -2,10 +2,10 @@
 <img alt="STORM Framework Logo" src="extras\branding\logo+storm+framework.png" width="300" height="300">
 
 <p align="center">
-<a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework">
-<img alt="GitHub Repository" src="https://img.shields.io/badge/github_repository-S.T.O.R.M._Framework-darkgreen?style=for-the-badge&logo=github"><img alt="GitHub Commit Activity" src="https://img.shields.io/github/commit-activity/t/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"><img alt="Github Created At" src="https://img.shields.io/github/created-at/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
+<a href="https://github.com/OverlordZorn/STORM-Framework">
+<img alt="GitHub Repository" src="https://img.shields.io/badge/github_repository-STORM_Framework-darkgreen?style=for-the-badge&logo=github"><img alt="GitHub Commit Activity" src="https://img.shields.io/github/commit-activity/t/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"><img alt="Github Created At" src="https://img.shields.io/github/created-at/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
 <p align="center">
-<a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/overlordzorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/blob/based/LICENSE"><img alt="GitHub License" src="https://img.shields.io/badge/license-APL%20SA-darkgreen?style=for-the-badge"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/fork"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/S.T.O.R.M.-Framework/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OverlordZorn/S.T.O.R.M.-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
+<a href="https://github.com/OverlordZorn/STORM-Framework/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/overlordzorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/blob/based/LICENSE"><img alt="GitHub License" src="https://img.shields.io/badge/license-APL%20SA-darkgreen?style=for-the-badge"></a><a href="https://github.com/OverlordZorn/STORM-Framework/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/fork"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
 
 <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224327412"><img alt="Static Badge" src="https://img.shields.io/badge/steamworkshop-DEV%20%22Closed%22%20Beta-darkgreen?style=for-the-badge&logo=steam&label=Steam%20Workshop"></a>
@@ -14,9 +14,9 @@
 <p align="center">
 <a href="https://discord.com/invite/B6pNcSSR5X"><img alt="Discord" src="https://img.shields.io/discord/1230123144334016543?style=for-the-badge&logo=discord&label=Discord&color=darkgreen"></a>
 
-# S.T.O.R.M. Framework
+# STORM Framework
 
-The **S.T.O.R.M. Framework** is an effort to make technically complex, but dynamic and immersive weather events easily available. 
+The **STORM Framework** is an effort to make technically complex, but dynamic and immersive weather events easily available. 
 
 The framework takes care of the complexity that comes with the Arma 3's engine and handles everything needed: be it global, serverside weather parameters and AI SubSkills or local, clientside post processing, particle and sound sources.
 

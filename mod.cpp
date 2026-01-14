@@ -1,4 +1,4 @@
-name = "S.T.O.R.M. Framework";
+name = "STORM Framework";
 
 author = "OverlordZorn [CVO]";
 
@@ -10,15 +10,15 @@ logoSmall       = "img\logo_64.paa";                                            
 logo            = "img\logo_128.paa";                                                                                                               // Logo displayed in the main menu 128x128
 logoOver        = "img\logo_128_contrast.paa";                                                                                                      // When the mouse is over, in the main menu 128x128
 
-tooltip         = "S.T.O.R.M. Frameworks";
-tooltipOwned    = "S.T.O.R.M. Framework";                                                                                                              // Tool tip displayed when the mouse is left over, in the main menu
-overview        = "S.T.O.R.M. Framework";                                                                                                              // Overview text, displayed from the extension menu
+tooltip         = "STORM Frameworks";
+tooltipOwned    = "STORM Framework";                                                                                                              // Tool tip displayed when the mouse is left over, in the main menu
+overview        = "STORM Framework";                                                                                                              // Overview text, displayed from the extension menu
 description     = "Framework for different types of Weather Storms, for example Sandstorms!";                                                       // Probably in context with action
-action          = "https://github.com/OverlordZorn/S.T.O.R.M.-Framework";                                                                                                                              // Website URL, that can accessed from the expansions menu 
+action          = "https://github.com/OverlordZorn/STORM-Framework";                                                                                                                              // Website URL, that can accessed from the expansions menu 
 actionName      = "Github";                                                                                                                         // label of button/tooltip in extension menu
 
 overviewPicture = "img\logo_storm_framework_512.paa";
-overviewText = "S.T.O.R.M. Framework";
+overviewText = "STORM Framework";
 
 overviewFootnote = "Storms, Technically Optimised, Really Mom!";
 

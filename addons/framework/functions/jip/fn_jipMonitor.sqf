@@ -2,7 +2,7 @@
 
 /*
 * Author: Zorn
-* This function handles currently active jipHandlers for the S.T.O.R.M. Framework, mainly for "client side effects" like particles etc.
+* This function handles currently active jipHandlers for the STORM Framework, mainly for "client side effects" like particles etc.
 * More importantly, it will montior changes to the jip handle when their "expiry time" is reached. 
 * Once expiry time < missionTime, the handle will get removed from the JIP stack via remoteExec ["",_handle]
 * 

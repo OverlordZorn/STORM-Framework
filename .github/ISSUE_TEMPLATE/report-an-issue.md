@@ -39,7 +39,7 @@ dont copy the content into the issue.
 **Versions:**
 ```
 Arma3: 2.xx
-S.T.O.R.M.: x.x.x
+STORM: x.x.x
 cba: x.x.x
 ```
 

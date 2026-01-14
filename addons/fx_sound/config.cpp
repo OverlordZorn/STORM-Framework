@@ -35,6 +35,7 @@ class CfgPatches {
 #include "CfgFunctions.hpp"
 #include "XEH\CfgXEH.hpp"
 
+#include "CfgSFX.hpp"
+#include "CfgSounds.hpp"
 
-#include "storm_CfgSFX.inc.hpp"
 #include "storm_SoundPresets.inc.hpp"

@@ -6,7 +6,7 @@ respawnDelay = 10; // Default: ?
 respawnTemplates[] = { "Wave", "Counter" };
 
 author			= "OverlordZorn[CVO]";
-onLoadName		= "S.T.O.R.M. Framework DEV Mission";
+onLoadName		= "STORM Framework DEV Mission";
 onLoadMission	= "Go hunt some bugs.";
 //loadScreen		= "";
 

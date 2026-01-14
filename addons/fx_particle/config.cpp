@@ -35,6 +35,4 @@ class CfgPatches {
 #include "CfgFunctions.hpp"
 #include "XEH\CfgXEH.hpp"
 
-class CfgCloudlets {
-	#include "Storm_ParticleEffects.inc.hpp"
-};
+#include "CfgCloudlets.hpp"

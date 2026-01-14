@@ -3,7 +3,7 @@
 workshop = [
     "450814997",  # CBA_A3's Workshop ID
     "463939057",  # ACE3
-    "2369477168", # Advanced Developer Tools
+    "3499977893", # Advanced Developer Tools
     "1779063631", # Zeus Enhanced
 #    "1613905318", # Emitter 3Ditor
 #    "1645973522", # Intercept Minimal Dev
@@ -37,7 +37,7 @@ mission = "test-storm-framework.altis"
 workshop = [
     "450814997", # CBA_A3's Workshop ID
     "463939057", # ACE3
-    "2369477168", # Advanced Developer Tools
+    "3499977893", # Advanced Developer Tools
     "1779063631", # Zeus Enhanced
 #    "1613905318", # Emitter 3Ditor
     "1645973522", # Intercept Minimal Dev
@@ -88,5 +88,5 @@ mission = "test-storm-framework.altis"
 workshop = [
     "450814997", # CBA_A3's Workshop ID
 #    "463939057", # ACE3
-    "2369477168", # Advanced Developer Tools
+    "3499977893", # Advanced Developer Tools
 ]
