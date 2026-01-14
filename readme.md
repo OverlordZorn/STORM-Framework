@@ -8,7 +8,7 @@
 <a href="https://github.com/OverlordZorn/STORM-Framework/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/overlordzorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/blob/based/LICENSE"><img alt="GitHub License" src="https://img.shields.io/badge/license-APL%20SA-darkgreen?style=for-the-badge"></a><a href="https://github.com/OverlordZorn/STORM-Framework/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/fork"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a><a href="https://github.com/OverlordZorn/STORM-Framework/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OverlordZorn/STORM-Weather-Framework?style=for-the-badge&color=darkgreen"></a>
 
 <p align="center">
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224327412"><img alt="Static Badge" src="https://img.shields.io/badge/steamworkshop-DEV%20%22Closed%22%20Beta-darkgreen?style=for-the-badge&logo=steam&label=Steam%20Workshop"></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224327412"><img alt="Static Badge" src="https://img.shields.io/steam/subscriptions/3224327412?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=darkgreen"></a>
 <p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/CONTRIBUTIONS-WELCOME-darkgreen?style=for-the-badge"></a>
 <p align="center">
@@ -174,19 +174,20 @@ cba
 
 ## License
 ### ARMA PUBLIC LICENSE SHARE ALIKE (APL-SA) 
-![APL-SA](https://data.bistudio.com/images/license/APL-SA.png)
+
+# Arma Public License No Derivatives (APL-ND)
+[![APL-ND License](https://www.bohemia.net/assets/img/licenses/APL-ND.png)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
 
 
+## Brief summary of this Licence
 
-With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy, distribute or transmit) the material under the following conditions:
+PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENCE.
 
-> Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
-> Noncommercial - You may not use this material for any commercial purposes.
-> Arma Only - You may not convert or adapt this material to be used in other games than Arma.
-> Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
-
-https://www.bohemia.net/community/licenses/arma-public-license-share-alike
-
+With this licence you are free to adapt (i.e. modify, rework or update) and share (i.e. copy, distribute or transmit) the material under the following conditions:
+- **Attribution** - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
+- **Noncommercial** - You may not use this material for any commercial purposes.
+- **Arma Only** - You may not convert or adapt this material to be used in other games than Arma.
+- **No Derivatives** - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 
 ## Thanks to
